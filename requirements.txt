@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+langchain
+chromadb
+sentence-transformers
+google-generativeai
+ollama
+textblob
+nltk
+pandas
+google-cloud-aiplatform 
+#googletrans==4.0.0rc1
+deep-translator
