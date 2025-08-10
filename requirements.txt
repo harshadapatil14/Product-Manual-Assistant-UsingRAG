@@ -11,3 +11,7 @@ pandas
 google-cloud-aiplatform 
 #googletrans==4.0.0rc1
 deep-translator
+SpeechRecognition 
+pyaudio
+plotly
+
